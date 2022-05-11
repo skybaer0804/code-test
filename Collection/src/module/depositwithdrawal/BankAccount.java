@@ -1,4 +1,4 @@
-package example.module.depositwithdrawal;
+package module.depositwithdrawal;
 
 public class BankAccount {
     int balance;

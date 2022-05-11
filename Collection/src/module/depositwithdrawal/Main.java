@@ -1,4 +1,4 @@
-package example.module.depositwithdrawal;
+package module.depositwithdrawal;
 
 public class Main {
     public static void main(String[] args) {
